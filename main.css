@@ -1,0 +1,115 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-image: url(/stars-bg.jpg);
+  background-size: cover;
+  color: #fff;
+}
+
+html {
+  font-family: monospace, sans-serif;
+}
+
+h1, h2 {
+  font-size: 60px;
+  text-align: center;
+}
+
+button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #000;
+  font-weight: bold;
+  width: 300px;
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+
+#increment-btn {
+  font-size: 40px;
+  background: blue;
+  cursor: pointer;
+}
+#decrease-btn {
+  font-size: 40px;
+  background: blue;
+  cursor: pointer;
+}
+#reset-btn {
+  font-size: 40px;
+  background: blue;
+  cursor: pointer;
+}
+
+h1, h2 {
+  text-align: cente4;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.buttons-container {
+  max-width: 992px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+@media screen and (min-width: 610px){
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-image: url(/stars-bg.jpg);
+  background-size: cover;
+  color: #fff;
+}
+
+html {
+  font-family: monospace, sans-serif;
+}
+
+h1, h2 {
+  font-size: 60px;
+  text-align: center;
+}
+
+button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #000;
+  font-weight: bold;
+  width: 500px;
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+
+#increment-btn {
+  font-size: 40px;
+  background: blue;
+  cursor: pointer;
+}
+#decrease-btn {
+  font-size: 40px;
+  background: blue;
+  cursor: pointer;
+}
+
+h1, h2 {
+  text-align: cente4;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.buttons-container {
+  max-width: 992px;
+  margin: 0 auto;
+  text-align: center;
+}
+}
